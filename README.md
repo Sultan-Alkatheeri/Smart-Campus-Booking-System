@@ -1,31 +1,49 @@
 # Smart-Campus-Booking-System
 
 ## Login Success
-This screenshot shows successful login using the correct username and password.
+This screenshot shows a successful login using the correct username and password credentials.
 
-## Successful Study Room Booking
-This screenshot shows a successful study room booking with booking details, booking status, payment status, and total cost.
+## Main User Dashboard
+This screenshot shows the main Smart Campus Booking System dashboard with facility options and booking management functions available to the user.
+
+## Time Slot Not Available
+This screenshot shows the system validation message when a selected booking time slot is already unavailable.
+
+## Successful Booking Confirmation
+This screenshot shows a successful booking confirmation including booking ID, facility details, booking status, payment status, date, duration, and total cost.
 
 ## Booking History
-This screenshot shows the user's booking history and stored booking records.
+This screenshot shows the booking history feature displaying all previous bookings made by the user.
 
-## Delete Booking
-This screenshot shows successful deletion of a booking from the booking history.
+## Booking Deleted Successfully
+This screenshot shows the successful deletion of the user’s most recent booking from the booking history.
+
+## Updated Booking History
+This screenshot shows the booking history after deleting a booking successfully.
 
 ## Display User Details
-This screenshot shows the user information including user ID, name, and access type.
+This screenshot shows the user details feature displaying the user ID, username, and access type information.
 
-## Save Data
-This screenshot shows successful data saving using the Pickle library.
+## Profile Updated Successfully
+This screenshot shows the successful update of the user profile information.
+
+## Updated User Details
+This screenshot shows the updated user information after modifying the user profile successfully.
+
+## Data Saved Successfully
+This screenshot shows the system successfully saving booking and user data into the data file.
+
+## Console Output and Test Cases
+This screenshot shows the console output displaying booking results, payment information, access control tests, and saved data verification.
+
+## Additional System Test Cases
+This screenshot shows additional test cases verifying booking restrictions, facility availability, user upgrades, booking capacity, loading data, and deletion functions.
 
 ## Admin Dashboard
-This screenshot shows the admin dashboard displaying booking activity, facility usage, and facility capacity.
+This screenshot shows the admin dashboard displaying facility capacities, daily booking statistics, and administrative controls.
 
-## Facility Availability Update
-This screenshot shows the admin changing the availability of Hall 1.
+## Admin Facility Availability Control
+This screenshot shows the admin successfully changing the availability status of Hall 1.
 
-## User Access Upgrade
-This screenshot shows the admin upgrading the user access type to Premium.
-
-## Console Test Cases
-These screenshots show the execution of all test cases including login, booking validation, booking modification, deletion, capacity checking, access restrictions, and pickle data loading/saving.
+## Admin User Upgrade
+This screenshot shows the administrator upgrading a standard user account to premium access successfully.
